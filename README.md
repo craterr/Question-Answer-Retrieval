@@ -9,6 +9,7 @@ This project uses [Mistral-7B](https://huggingface.co/TheBloke/Mistral-7B-Instru
    - Use annaconda CLI to navigate to the directory where the code is located.
      
 3. **Create a conda environment and activate it**
+   - Refer to [commands.txt](https://github.com/craterr/Question-Answer-Retrieval/blob/main/commands.txt)
 
 3. **Install dependencies:**
    -  ```
@@ -32,4 +33,4 @@ This project uses [Mistral-7B](https://huggingface.co/TheBloke/Mistral-7B-Instru
 ![image](https://github.com/craterr/Question-Answer-Retrieval/assets/106965125/05ac61d9-3d9b-4db5-bdfe-a8b023318def)
 
 ![image](https://github.com/craterr/Question-Answer-Retrieval/assets/106965125/fd9b7752-94b2-4c93-85a2-648bc72557df)
-Click on download button to download the csv file else it will be saved in static/output/
+Click on download button to download the csv file else it will be saved [here](https://github.com/craterr/Question-Answer-Retrieval/tree/main/static/output).
