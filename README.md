@@ -6,7 +6,7 @@ This project uses [Mistral-7B](https://huggingface.co/TheBloke/Mistral-7B-Instru
    - Clone the repository or download the code as a ZIP file.
      
 2. **Navigate to the directory:** 
-   - Use annaconda CLI to navigate to the directory where the code is located.
+   - Use Annaconda CLI to navigate to the directory where the code is located.
      
 3. **Create a conda environment and activate it**
    - Refer to [commands.txt](https://github.com/craterr/Question-Answer-Retrieval/blob/main/commands.txt)
