@@ -1,0 +1,3 @@
+conda activate langchain_llm_venv
+python app.py
+uvicorn app:app --reload
