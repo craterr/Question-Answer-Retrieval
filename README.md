@@ -14,6 +14,7 @@ This project uses [Mistral-7B](https://huggingface.co/TheBloke/Mistral-7B-Instru
 3. **Install dependencies:**
    -  ```
       pip install -r requirements.txt
+      ```
 
 4. **Run the code:** 
    - Execute the command to run the code. 
