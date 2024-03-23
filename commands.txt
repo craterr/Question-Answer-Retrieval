@@ -1,3 +1,5 @@
-conda activate langchain_llm_venv
+conda create --name langchain python=3.8
+conda activate langchain
 python app.py
 uvicorn app:app --reload
+conda deactivate
