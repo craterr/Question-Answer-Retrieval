@@ -35,3 +35,6 @@ This project uses [Mistral-7B](https://huggingface.co/TheBloke/Mistral-7B-Instru
 
 ![image](https://github.com/craterr/Question-Answer-Retrieval/assets/106965125/fd9b7752-94b2-4c93-85a2-648bc72557df)
 Click on download button to download the csv file else it will be saved [here](https://github.com/craterr/Question-Answer-Retrieval/tree/main/static/output).
+
+![image](https://github.com/craterr/Question-Answer-Retrieval/assets/106965125/d6ddedb1-65a2-49e3-a851-856237787f0f)
+
